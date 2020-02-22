@@ -1,0 +1,14 @@
+(CNN)Juliana Fetherman was in middle school when she started to notice that her younger brother, Michael, who has ADHD and autism, was having problems making friends.
+
+"He's verbal, but he doesn't like to talk," Fetherman told CNN. "Just making and keeping conversations is something that's really awkward for him, and it's hard for him to initiate that."
+Michael was diagnosed with ADHD early on when he started missing his milestones in development, and was diagnosed with autism at age 8.
+"Autism is such a spectrum, even in special education classes it's hard to match kids with the same abilities," she said. "He always felt like he didn't fit in with that class, but he didn't fit in with the typical kids either. That left him alone."
+Seeing someone she loved so dearly be so lonely every day inspired the 23-year-old to create an app to help people like Michael establish meaningful relationships.
+Making Authentic Friendships -- or MAF for short -- also happens to be her brother's initials.
+"There's an array of disabilities and the point of the app is to find people with the same needs so they can feel less alone, less isolated, and hopefully less depressed," she said.
+In its first stage, the web app is a website that operates like an app. As she works to build the database and gain users, the focus is on chatting. In the next six months or so, Fetherman hopes to have the iPhone and Android app developed.
+MAF asks users their name, age, location and diagnosis. Eventually, the algorithm will match people based off diagnoses. Currently, it shows everybody's location (based off of zip code only) and allows people to connect with one another.
+It works like a game. Users sign in, create an avatar that looks like them and then find friends on an interactive map. The more a user chats with people, the more coins they earn. Those coins will then be able to be used for things like new clothes for the avatar or in the future, audio and video chats.
+"It's very colorful, there are a lot of drop-down menus with big buttons because we wanted it to be accessible," Fetherman said.
+It launched in August 2019 and MAF already has users in 35 states, 12 countries and on five continents. Its biggest user base is in the New England area.
+"Eventually the ultimate goal is to have people meeting up," she said. "In order for that to be the most valuable experience, we need a lot of people in small areas so it's a work in progress.
